@@ -17,4 +17,4 @@
 ## 🚀 실행 방법
 ```bash
 
-python number_guessing.py
+python randomnumber_guessing.py
